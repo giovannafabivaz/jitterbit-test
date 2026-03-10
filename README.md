@@ -27,11 +27,12 @@ A API realiza o recebimento de pedidos em formato JSON, mapeia os campos para um
 3. **Instalação:**
    No terminal, dentro da pasta do projeto, execute:
    ```bash
-   npm install
+      npm install
 
 4. **Execução** 
     - Inicie o servidor com o comando:
-        ```node app.js
+        ```bash
+        node app.js
 
 ## Endpoints da API (RODAR NO POSTMAN)
 
